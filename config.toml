@@ -46,6 +46,14 @@ languageName = "English"
     name = "Categories"
     url = "/categories/"
     title = ""
+  [[menu.main]]
+    weight = 4
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "About"
+    url = "/about/"
+    title = ""
 
 # Markup related configuration in Hugo
 [markup]
@@ -317,7 +325,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       Mix = false
     # LoveIt CHANGED | 0.2.0 Comment config
     [params.page.comment]
-      enable = false
+      enable = true
       # Disqus comment config
       [params.page.comment.disqus]
         # LoveIt NEW | 0.1.1
@@ -377,9 +385,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         enable = false
       # LoveIt NEW | 0.2.5 utterances comment config
       [params.page.comment.utterances]
-        enable = false
+        enable = true
         # owner/repo
-        repo = ""
+        repo = "KiceWang/Kice-Myblog"
         issueTerm = "pathname"
         label = ""
         lightTheme = "github-light"
