@@ -7,7 +7,7 @@ categories:
   - Weekly Posts
 tags:
   - 周报
-draft: yes
+draft: no
 ---
 # 20230730
 
