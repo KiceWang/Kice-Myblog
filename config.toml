@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://kicewang.netlify.app/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -61,19 +61,10 @@ languageName = "English"
   [markup.highlight]
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
-baseURL = "http://example.org/"
-
-# Change the default theme to be use when building the site with Hugo
-theme = "LoveIt"
-
-# website title
-title = "My New Hugo Site"
-
-# language code ["en", "zh-CN", "fr", "pl", ...]
-languageCode = "en"
-# language name ["English", "简体中文", "Français", "Polski", ...]
-languageName = "English"
 # whether to include Chinese/Japanese/Korean
 hasCJKLanguage = true
 
@@ -467,12 +458,5 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+
