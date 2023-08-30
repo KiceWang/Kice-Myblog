@@ -18,7 +18,7 @@ draft: no
 
 ## 学习
 
-看完了《拨开迷雾开未来》，[《MySQL必知必会》](https://forta.com/books/0672327120/)继续。
+看完了《拨开迷雾看未来》，[《MySQL必知必会》](https://forta.com/books/0672327120/)继续。
 
 
 ## 生活
@@ -29,7 +29,7 @@ draft: no
 
 ## 下周待办
 
-- [ ] [《始于艰险》](https://book.douban.com/subject/35966120/)
+- [ ] [《始于极限》](https://book.douban.com/subject/35966120/)
 
 - [ ] 继续[《MySQL必知必会》](https://forta.com/books/0672327120/)
 
