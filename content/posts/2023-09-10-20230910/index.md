@@ -1,6 +1,6 @@
 ---
 title: '20230910'
-author: Simon Urbanek
+author: Kice
 date: '2023-09-10'
 slug: []
 categories:
