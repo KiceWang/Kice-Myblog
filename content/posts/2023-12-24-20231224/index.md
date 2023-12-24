@@ -1,13 +1,13 @@
 ---
 title: '20231224'
-author: Simon Urbanek
+author: Kice
 date: '2023-12-24'
 slug: []
 categories:
   - Weekly Posts
 tags:
   - 周报
-draft: yes
+draft: no
 ---
 
 ## 工作
