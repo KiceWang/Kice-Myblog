@@ -1,7 +1,7 @@
 ---
 title: '20240811'
 author: Kice
-date: '2024-08-18'
+date: '2024-08-11'
 slug: []
 categories:
   - Weekly Posts
